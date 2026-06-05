@@ -2,8 +2,8 @@ export default function Layout(props) {
     const { children } = props
     const header =(
         <header>
-            <h1 className="text-gradient">The Brogram</h1>
-            <p><strong>The 30 Simple Workouts Program</strong></p>
+            <h1 className="text-gradient">Get Gains Fast</h1>
+            <p><strong>30 Day Workout Plan</strong></p>
         </header>
     )
     const footer = (
